@@ -2,3 +2,12 @@
 
 !*/cortex_svz_cellcentroids.csv
 !*/cortex_svz_counts.csv
+
+*.gz
+*.txt
+*.mtx
+*.h5ad
+*.json
+*.bus
+*.ec
+*.idx
