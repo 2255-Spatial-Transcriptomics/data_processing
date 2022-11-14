@@ -7,7 +7,6 @@
 *.txt
 *.mtx
 *.h5ad
-*.json
 *.bus
 *.ec
 *.idx

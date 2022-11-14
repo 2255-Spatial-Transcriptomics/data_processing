@@ -1,0 +1,13 @@
+{
+	"n_targets": 51951977,
+	"n_bootstraps": 0,
+	"n_processed": 8860361,
+	"n_pseudoaligned": 3383428,
+	"n_unique": 1309015,
+	"p_pseudoaligned": 38.2,
+	"p_unique": 14.8,
+	"kallisto_version": "0.46.0",
+	"index_version": 172116999,
+	"start_time": "Sun Nov 13 16:50:33 2022",
+	"call": "/Users/davidw/opt/anaconda3/envs/spatial-transcriptomics/lib/python3.10/site-packages/kb_python/bins/darwin/kallisto/kallisto bus -i index.idx -o . -x 10xv2 -t 2 SRR8599150_S1_L001_R1_001.fastq.gz SRR8599150_S1_L001_R2_001.fastq.gz"
+}
